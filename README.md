@@ -1,4 +1,5 @@
 # MDC Rules Generator
+# Test
 
 > **Disclaimer:** This project is not officially associated with or endorsed by Cursor. It is a community-driven initiative to enhance the Cursor experience.
 
